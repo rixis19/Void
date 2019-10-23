@@ -1,17 +1,26 @@
 ﻿<Properties StartupConfiguration="{C2FEB221-A421-43A5-803E-5FFA5590A7F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Void/CommandHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Void/Modules/Misc.cs">
     <Files>
-      <File FileName="Void/CommandHandler.cs" Line="1" Column="1" />
+      <File FileName="Void/CommandHandler.cs" Line="13" Column="33" />
+      <File FileName="Void/Program.cs" Line="11" Column="33" />
+      <File FileName="Void/Config.cs" Line="1" Column="1" />
+      <File FileName="Void/Modules/Misc.cs" Line="25" Column="59" />
+      <File FileName="Void/Utilities.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Void" expanded="True">
             <Node name="Void" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Modules" expanded="True">
+                <Node name="Misc.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
